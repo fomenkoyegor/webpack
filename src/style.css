@@ -1,0 +1,15 @@
+body {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    background: mediumvioletred;
+    color: lightslategray;
+}
+
+.el{
+    background: blueviolet;
+    padding: 5px;
+    color: white;
+}
